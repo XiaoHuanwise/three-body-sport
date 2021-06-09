@@ -1,0 +1,7 @@
+E:\three body sport\C#\CreatData\CreatData\bin\Debug\CreatData.exe.config
+E:\three body sport\C#\CreatData\CreatData\bin\Debug\CreatData.exe
+E:\three body sport\C#\CreatData\CreatData\bin\Debug\CreatData.pdb
+E:\three body sport\C#\CreatData\CreatData\obj\Debug\CreatData.csprojAssemblyReference.cache
+E:\three body sport\C#\CreatData\CreatData\obj\Debug\CreatData.csproj.CoreCompileInputs.cache
+E:\three body sport\C#\CreatData\CreatData\obj\Debug\CreatData.exe
+E:\three body sport\C#\CreatData\CreatData\obj\Debug\CreatData.pdb
